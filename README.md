@@ -1,4 +1,4 @@
-# WebDev-L1-Calculator
+# WebDev-L2-Calculator
 
 ## Project Description
 This project is a simple and responsive Calculator developed using HTML, CSS, and JavaScript. It performs basic arithmetic operations through an easy-to-use interface.
